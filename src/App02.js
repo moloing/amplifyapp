@@ -9,8 +9,6 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <h1>政府部門於星期一採取行動</h1>
-        <h1>三亚市新增80例本土确诊病例（其中8例为无症状感染者转归）</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
